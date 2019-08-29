@@ -1,0 +1,1 @@
+{"_id":{"$oid":"5d31b1924229a423c321d34b"},"id":{"$numberLong":"1"},"data":"hello","from":"hmed","to":{"$numberLong":"1"},"createdAt":{"$date":"2018-12-31T23:00:00.000Z"}}
